@@ -100,9 +100,9 @@ Admin :
 
 * Admin must have an option to view/update event reservations
 
-* Admin can print various reports (atleast one)
+* Admin can reports (atleast one)
 
-* Admin can automate sending email confimations 
+* Admin can automate sending email confimations (bonus) 
 
 
 > Bonus Feature: having a responsive layouts
