@@ -84,7 +84,7 @@ The login form should have username and password as required fields.
 
 Form field errors should be displayed to the user with a useful message.
 
-If login fails, a message notifying the user of the failure should be shown.
+If login fails, a `toast message` notifying the user of the failure should be shown.
 
 When registered or authenticated the user should then be directed to the main "Main Dashboard" page.
 
