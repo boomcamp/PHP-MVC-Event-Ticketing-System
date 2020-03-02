@@ -10,8 +10,10 @@ This is a comprehensive test of all of your skills as a PHP developer and to get
 
 These are the expected various entities and relations that you should implement in your event ticketing application
 
-Database name : `ticketing_db`
+<details>
+<summary> Database name : ticketing_db </summary>
 
+```
 `roles`
 
 * id 
@@ -62,6 +64,10 @@ Database name : `ticketing_db`
 * quantity = How many tickets ordered
 
 * total = Total price of the ticket
+```
+
+</details>
+
 
 
 # Requirements
