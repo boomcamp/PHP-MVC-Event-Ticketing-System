@@ -4,7 +4,7 @@ This is a comprehensive test of all of your skills as a PHP developer and to get
 
 ### Design and Layout
 
-* HTML5/CSS3 or Bootstrap
+* Bootstrap or Foundation
 
 ### Database Design
 
