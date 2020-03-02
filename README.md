@@ -88,9 +88,9 @@ If login fails, a message notifying the user of the failure should be shown.
 
 When registered or authenticated the user should then be directed to the main "Main Dashboard" page.
 
-### Tests
+# Tests
 
-* Should have atlest 5 passing tests.
+* Should have atleast `5 passing tests`.
 
 
 # Main Dashboard 
