@@ -2,11 +2,11 @@
 
 This is a comprehensive test of all of your skills as a PHP developer and to get you practice on how to develop using mvc applications, you'll be expected to implement each specified feature to the best of your abilities. Along with working features, attention will be paid to how you organize your application code.
 
-### Design and Layout
+# Design and Layout
 
 * Bootstrap or Foundation
 
-### Database Design
+# Database Design
 
 These are the expected various entities and relations that you should implement in your event ticketing application
 
