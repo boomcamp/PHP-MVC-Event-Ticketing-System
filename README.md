@@ -72,6 +72,10 @@ These are the expected various entities and relations that you should implement 
 
 # Requirements
 
+### Tests
+
+* Should have atleast `5 passing tests`.
+
 ### Login / Registration Page:
 
 When a user first navigates to your application they should be greeted with a Login / Registration page.
@@ -88,16 +92,11 @@ If login fails, a `toast message` notifying the user of the failure should be sh
 
 When registered or authenticated the user should then be directed to the main "Main Dashboard" page.
 
-# Tests
-
-* Should have atleast `5 passing tests`.
-
-
-# Main Dashboard 
+### Main Dashboard 
 
 This is the main landing page of your application, and your application should have this following features:
 
-Guest : 
+#### Guest : 
 
 * Guest must have an option to book an event
 
@@ -107,7 +106,7 @@ Guest :
 
 * Guest should receive an email of his booked event using gmail smtp and [CI Email library](https://codeigniter.com/user_guide/libraries/email.html)
 
-Admin : 
+#### Admin : 
 
 * Admin must have an option to view/update event reservations
 
@@ -121,7 +120,5 @@ Admin :
 
 # Finished
 
-Submit a link of your github repository to the Google Classroom assignment related to this project.
-
-### Good Luck!
+Submit a link of your github repository to the Google Classroom assignment related to this project, Good Luck!
 
