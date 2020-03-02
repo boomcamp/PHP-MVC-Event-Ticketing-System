@@ -105,6 +105,7 @@ Guest :
 
 * Guest must have an option to view his events
 
+* **Guest should receive a detailed message of his booked event using [CI Email Class](https://codeigniter.com/user_guide/libraries/email.html)**
 
 Admin : 
 
