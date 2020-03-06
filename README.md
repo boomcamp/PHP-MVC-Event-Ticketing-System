@@ -92,6 +92,10 @@ If login fails, a `toast message` notifying the user of the failure should be sh
 
 When registered or authenticated the user should then be directed to the main "Main Dashboard" page.
 
+### Session management and Idle :
+
+So sesion idle is not having any activity in [x] amount of minutes so we need to redirect to login page for inactive session. we also need to redirect the user's to login page if they access the main dashboard without loggin in.
+
 ### Main Dashboard 
 
 This is the main landing page of your application, and your application should have this following features:
