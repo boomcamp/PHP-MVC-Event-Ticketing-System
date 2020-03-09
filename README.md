@@ -98,7 +98,9 @@ So sesion idle is not having any activity in [x] amount of minutes so we need to
 
 ### Main Dashboard 
 
-This is the main landing page of your application, and your application should have this following features:
+The main dashboard should be a server side [datatables](https://datatables.net/) display.
+
+your application should have this following features:
 
 #### Guest : 
 
