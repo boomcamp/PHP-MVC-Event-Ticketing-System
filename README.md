@@ -94,7 +94,7 @@ When registered or authenticated the user should then be directed to the main "M
 
 ### Session management and Idle :
 
-So sesion idle is not having any activity in [x] amount of minutes so we need to redirect to login page for inactive session. we also need to redirect the user's to login page if they access the main dashboard without logging in.
+If you are not familiar with session idle it is `not having any activity in [x] amount of minutes` this is why we need to redirect a user to login page if they are inactive and redirect to login page for the user's that by passing the main dashboard page.
 
 ### Main Dashboard 
 
