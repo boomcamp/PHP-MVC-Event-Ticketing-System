@@ -76,7 +76,7 @@ These are the expected various entities and relations that you should implement 
 
 ### Unit testing and Data driven tests
 
-You should implement data driven testing to `test all user inputs` from the coming from the html forms.
+You should implement data driven testing to `test all user inputs` coming the from the html forms.
 
 * Should have `10 passing tests` using ci unit testing library.
 
