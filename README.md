@@ -4,7 +4,9 @@ This is a comprehensive test of all of your skills as a PHP developer and to get
 
 # Design and Layout
 
-* Bootstrap, Foundation or any CSS Frameworks
+* Bootstrap, Foundation or any CSS Frameworks.
+
+* Should also have have a responsive layouts.
 
 # Database Design
 
@@ -116,12 +118,9 @@ your application should have this following features:
 
 * Admin must have an option to view/update event reservations
 
-* Admin can reports (atleast one)
+* Admin can have at least one reports
 
 * Admin can automate sending email confimations (bonus) 
-
-
-> Bonus Feature: having a responsive layouts
 
 
 # Finished
