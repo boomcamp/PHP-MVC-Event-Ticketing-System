@@ -76,12 +76,13 @@ These are the expected various entities and relations that you should implement 
 
 ### Unit testing and Data driven tests
 
-You should implement data driven testing to `test all user inputs` coming the from the html forms.
+You should implement data driven testing to `test all user inputs` coming from the html forms.
 
 * Should have `10 passing tests` using ci unit testing library.
 
 * Should have atleast `10 passing tests` using PHPUnit.
 
+* Tests can be generated in any format(CSV, EXCEL etc) - Bonus.
 
 ### Login / Registration Page:
 
