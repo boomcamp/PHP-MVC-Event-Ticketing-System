@@ -6,7 +6,7 @@ This is a comprehensive test of all of your skills as a PHP developer and to get
 
 * Bootstrap, Foundation or any CSS Frameworks.
 
-* Should also have have a responsive layouts.
+* Should also have a responsive layouts.
 
 # Database Design
 
