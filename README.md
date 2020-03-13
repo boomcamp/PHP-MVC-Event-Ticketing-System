@@ -124,7 +124,7 @@ your application should have this following features:
 
 * Admin must have an option to view/update event reservations
 
-* Admin can have at least one reports
+* Admin can generate event lists report
 
 * Admin can automate sending email confimations (bonus) 
 
