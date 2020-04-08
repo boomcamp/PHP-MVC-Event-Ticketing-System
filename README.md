@@ -118,7 +118,7 @@ your application should have this following features:
 
 * Guest must have an option to view his events
 
-* Guest should receive an email of his booked event using gmail smtp and [CI Email library](https://codeigniter.com/user_guide/libraries/email.html)
+* Guest should receive an email of his booked event using gmail smtp and [CI Email library](https://codeigniter.com/user_guide/libraries/email.html) (Optional)
 
 #### Admin : 
 
@@ -126,7 +126,7 @@ your application should have this following features:
 
 * Admin can generate event lists report
 
-* Admin can automate sending email confimations (bonus) 
+* Admin can automate sending email confimations (optional) 
 
 
 # Finished
